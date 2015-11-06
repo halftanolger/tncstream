@@ -3,6 +3,11 @@ PhoneGap tutorial
 --------------------------------------------------------------------------------
 http://ccoenraets.github.io/cordova-tutorial/create-cordova-project.html
 
+PhoneGap Build
+
+https://build.phonegap.com/apps/1753317/builds
+
+
 Recording client
 --------------------------------------------------------------------------------
 BUTT av Daniel Nöthen
