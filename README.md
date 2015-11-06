@@ -1,1 +1,3 @@
 # tncstream
+
+A PhoneGap application.
