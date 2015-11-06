@@ -1,0 +1,16 @@
+
+PhoneGap tutorial
+--------------------------------------------------------------------------------
+http://ccoenraets.github.io/cordova-tutorial/create-cordova-project.html
+
+Recording client
+--------------------------------------------------------------------------------
+BUTT av Daniel Nöthen
+
+http://savonet.sourceforge.net/
+http://savonet.sourceforge.net/doc-svn/quick_start.html
+
+Streaming server
+--------------------------------------------------------------------------------
+ICECAST2
+https://wiki.archlinux.org/index.php/Streaming_With_Icecast#Step_5:_Test_.2F_use_the_stream

@@ -3,7 +3,7 @@
 <head>
     <meta name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=1">
     <meta charset="utf-8">
-    <title>PGTest - My PhoneGap test app</title>
+    <title>TNCStream - a test application</title>
     <link rel="stylesheet"  href="css/themes/default/jquery.mobile-1.4.0.css">
     <link rel="stylesheet"  href="css/app.css">
     <script src="js/jquery.js"></script>
@@ -11,11 +11,19 @@
 </head>
 <body>
 <div data-role="page" class="" id="mainPage">
+    <br>
     <div data-role="header" class="">
-        <h1>PGTest</h1>
-        <a href="#settingsPage" id='settingsButton' class="ui-btn-right" data-role="button" data-icon="gear">Instillinger</a>
+        <h1>TNCStream App2</h1>
+        <!-- <a href="#settingsPage" id='settingsButton' class="ui-btn-right" data-role="button" data-icon="gear">Instillinger</a> -->
     </div>
     <div data-role="content" class="">
+	
+	 <video width="100%" height="240" controls>  
+     <source src="http://192.168.1.141:8000/example1.ogg" type="audio/ogg">
+Your browser does not support the video tag.
+</video> 
+	
+	    <!--
         <form>
             <div data-role="fieldcontain">
                 <label for="billAmount">Bill Amount:</label>
@@ -33,6 +41,8 @@
                 <span id="totalAmount">$0.00</span>
             </p>
         </form>
+		-->
+		
     </div>
 </div>
 <div data-role="page" class="" id="settingsPage" data-add-back-btn="true" >
